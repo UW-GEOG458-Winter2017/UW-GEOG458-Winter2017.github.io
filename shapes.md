@@ -17,3 +17,6 @@ layout: layout
 #### *Christina and Alex's Shape* ![Shape](http://UW-GEOG458-Winter2017.github.io/galleries/shapes/christina-gallery.svg)
 
 #### *Troy's and Yunfeng* ![Shape](http://UW-GEOG458-Winter2017.github.io/galleries/shapes/troy94-gallery.svg)
+
+#### *Marina and Kaeley's Shape* ![Shape](http://UW-GEOG458-Winter2017.github.io/galleries/shapes/turtle-circle.svg)
+
