@@ -20,3 +20,4 @@ layout: layout
 
 #### *Marina and Kaeley's Shape* ![Shape](http://UW-GEOG458-Winter2017.github.io/galleries/shapes/turtle-circle.svg)
 
+#### *Gil and Zhengwei's Shape* ![Shape](http://UW-GEOG458-Winter2017.github.io/galleries/shapes/Snowflake.svg)
