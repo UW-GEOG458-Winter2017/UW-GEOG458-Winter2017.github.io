@@ -23,3 +23,5 @@ layout: layout
 #### *Gil and Zhengwei's Shape* ![Shape](https://UW-GEOG458-Winter2017.github.io/galleries/shapes/Snowflake.svg)
 
 #### *Jose's Shape* ![Shape](https://UW-GEOG458-Winter2017.github.io/galleries/shapes/loperz23-gallery.svg)
+
+#### *Logan, Sean, and Jace's Shape*  ![A shape](http://uw-geog458-winter2017.github.io/galleries/shapes/American-Rings.svg)
