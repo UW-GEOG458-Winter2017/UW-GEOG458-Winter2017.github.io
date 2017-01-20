@@ -29,3 +29,5 @@ layout: layout
 #### *Franz and Moises's Shape* ![Shape](http://uw-geog458-winter2017.github.io/galleries/shapes/franzmoises-gallery.svg)
 
 #### *Elex and Jacque's Shape* ![Shape](http://uw-geog458-winter2017.github.io/galleries/shapes/hillele-gallery.svg)
+
+#### *Kieran and Zen's Shape* ![Shape](https://UW-GEOG458-Winter2017.github.io/blob/master/galleries/shapes/TurtleStar.svg)
