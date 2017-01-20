@@ -31,3 +31,5 @@ layout: layout
 #### *Elex and Jacque's Shape* ![Shape](http://uw-geog458-winter2017.github.io/galleries/shapes/hillele-gallery.svg)
 
 #### *Kieran and Zen's Shape* ![Shape](http://UW-GEOG458-Winter2017.github.io/galleries/shapes/TurtleStar.svg)
+
+#### *Bob Irregular Polygon has 2.05 sides* https://github.com/UW-GEOG458-Winter2017/UW-GEOG458-Winter2017.github.io/blob/master/galleries/shapes/rhkgallery.svg
