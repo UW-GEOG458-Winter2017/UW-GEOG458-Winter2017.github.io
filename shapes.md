@@ -36,4 +36,4 @@ layout: layout
 
 #### *Meghan and Yue's Shape* ![Shape](http://UW-GEOG458-Winter2017.github.io/galleries/shapes/Meghan-gallery.svg)
 
-#### *Travis and Alex's Shape* ![Shape](http://UW-GEOG458-Winter2017.github.io/galleries/shapes/smitht24_alexcarl-gallery.svg)
+#### *Travis and Alex's Shape* ![A shape](http://UW-GEOG458-Winter2017.github.io/galleries/shapes/smitht24_alexcarl-gallery.svg)
