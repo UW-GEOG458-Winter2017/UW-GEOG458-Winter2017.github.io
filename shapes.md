@@ -32,4 +32,4 @@ layout: layout
 
 #### *Kieran and Zen's Shape* ![Shape](http://UW-GEOG458-Winter2017.github.io/galleries/shapes/TurtleStar.svg)
 
-#### *Bob Irregular Polygon has 2.05 sides* https://github.com/UW-GEOG458-Winter2017/UW-GEOG458-Winter2017.github.io/blob/master/galleries/shapes/rhkgallery.svg
+#### *Bob Irregular Polygon Has 2.05 Sides* ![Shape](http://UW-GEOG458-Winter2017.github.io/galleries/shapes/rhkgallery.svg)
