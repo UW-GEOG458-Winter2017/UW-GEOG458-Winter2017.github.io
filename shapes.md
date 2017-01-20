@@ -27,3 +27,5 @@ layout: layout
 #### *Logan, Sean, and Jace's Shape*  ![Shape](http://uw-geog458-winter2017.github.io/galleries/shapes/AmericanRings.svg)
 
 #### *Franz and Moises's Shape* ![Shape](http://uw-geog458-winter2017.github.io/galleries/shapes/franzmoises-gallery.svg)
+
+#### *Elex and Jacque's Shape* ![Shape](http://uw-geog458-winter2017.github.io/galleries/shapes/hillele-gallery.svg)
