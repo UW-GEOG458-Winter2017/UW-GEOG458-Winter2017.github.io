@@ -30,4 +30,4 @@ layout: layout
 
 #### *Elex and Jacque's Shape* ![Shape](http://uw-geog458-winter2017.github.io/galleries/shapes/hillele-gallery.svg)
 
-#### *Kieran and Zen's Shape* ![Shape](https://UW-GEOG458-Winter2017.github.io/blob/master/galleries/shapes/TurtleStar.svg)
+#### *Kieran and Zen's Shape* ![Shape](UW-GEOG458-Winter2017.github.io/galleries/shapes/TurtleStar.svg)
